@@ -1,6 +1,6 @@
 ### Hi there! I'm Abdullahi Khalaf Musa 👋
 
-I am a 300-Level Computer Engineering student and an aspiring Backend Engineer. I enjoy figuring out the logic behind complex systems, setting up efficient databases, and writing code that runs smoothly behind the scenes. 
+I am a 300-Level Computer Engineering student and an aspiring Backend Engineer. I enjoy figuring out the logic behind systems, setting up efficient databases, and writing code that runs smoothly behind the scenes. 
 
 Right now, I am looking for junior backend developer roles, internships, or freelance work where I can jump into a real engineering team, solve practical problems, and sharpen my skills. 
 
